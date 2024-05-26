@@ -14,6 +14,8 @@ The trained model was then hosted on HuggingFaces to perform inference. The app 
 * Scheduler: OneCycleLR policy
 
 ## Results
+### Loss curves
+![Train and Validation loss](./imgs/loss.png)
 
 ### Misclassified images
 ![Misclassified images](./imgs/misclassified.png)
