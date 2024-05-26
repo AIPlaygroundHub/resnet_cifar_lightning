@@ -1,7 +1,7 @@
 # Train ResNet18 model on CIFAR10 dataset
 
 This repository contains the [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/) code to train a ResNet18 model on the CIFAR10 dataset.
-The trained model was then hosted on HuggingFaces to perform inference. The app can be found here: 
+The trained model was then hosted on HuggingFaces to perform inference. The app can be found here: [Link](https://huggingface.co/spaces/varsha-raveendran/gradcam_app_demo).
 
 ## Model Architecture
 
